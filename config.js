@@ -20,12 +20,12 @@ for (let i = 0; i < ownerlist.length; i++) {
 }
 //
 global.botname = process.env.BOTNAME || 'SANA_MD-V1';
-global.pairingNumber = process.env.BOT_NUMBER || 'your number';  // put your number here
-global.SESSION_ID = process.env.SESSION_ID || 'session id';  // put your session id here
+global.pairingNumber = process.env.BOT_NUMBER || '263718408380';  // put your number here
+global.SESSION_ID = process.env.SESSION_ID || '3YJQjACb#REmFE4L_ve7_qsoLYKU5i1h4zjO-l4A_OlVetwupXrk';  // put your session id here
 
 global.mods = []
 global.prems = []
-global.allowed = ['917849917350', '923337468951']
+global.allowed = ['917849917350', '263718408389']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -46,7 +46,7 @@ global.canal = 'https://whatsapp.com/channel/0029VagcqzY1XquemrHOM51n'
 
 
 global.APIs = {
-  // API Prefix
+  /./ API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz',
   dzx: 'https://api.dhamzxploit.my.id',
@@ -73,7 +73,7 @@ global.APIKeys = {
 
 // Sticker WM
 global.premium = 'true'
-global.packname = 'SANA_MD-V1'
+global.packname = 'timi_MD-V1'
 global.author = 'Sanatech'
 global.menuvid = 'https://i.imgur.com/2Sp3cqD.mp4'
 global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/Tohidkhan6332'
