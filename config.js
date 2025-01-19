@@ -21,7 +21,7 @@ for (let i = 0; i < ownerlist.length; i++) {
 //
 global.botname = process.env.BOTNAME || 'SANA_MD-V1';
 global.pairingNumber = process.env.BOT_NUMBER || 'your number';  // put your number here
-global.SESSION_ID = process.env.SESSION_ID || '3YJQjACb#REmFE4L_ve7_qsoLYKU5i1h4zjO-l4A_OlVetwupXrk';  // put your session id here
+global.SESSION_ID = process.env.SESSION_ID || 'XJYzwTLC#JOBU_011T5NmXFapPeglbTBuT4eu7W4juKtcw8MHM7M';  // put your session id here
 
 global.mods = []
 global.prems = []
@@ -46,7 +46,7 @@ global.canal = 'https://whatsapp.com/channel/0029VagcqzY1XquemrHOM51n'
 
 
 global.APIs = {
-  // API Prefix
+  /./ API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz',
   dzx: 'https://api.dhamzxploit.my.id',
