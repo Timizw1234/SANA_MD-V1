@@ -10,7 +10,7 @@ const defaultOwner = '923337468951';
 
 
 // Check for the OWNERS environment variable; if not found, use the default
-const ownervb = process.env.OWNERS || process.env.OWNER_NUMBER || 'your number';  // put your number here
+const ownervb = process.env.OWNERS || process.env.OWNER_NUMBER || '263718408380';  // put your number here
 
 const ownerlist = ownervb.split(';');
 
@@ -20,8 +20,8 @@ for (let i = 0; i < ownerlist.length; i++) {
 }
 //
 global.botname = process.env.BOTNAME || 'SANA_MD-V1';
-global.pairingNumber = process.env.BOT_NUMBER || 'your number';  // put your number here
-global.SESSION_ID = process.env.SESSION_ID || 'session id';  // put your session id here
+global.pairingNumber = process.env.BOT_NUMBER || '263718408380';  // put your number here
+global.SESSION_ID = process.env.SESSION_ID || 'nMRH1SJL#eHkN4yxq3X1E7UeMu59ruMF1dTDc4TevnUoMXlindnA';  // put your session id here
 
 global.mods = []
 global.prems = []
@@ -46,7 +46,7 @@ global.canal = 'https://whatsapp.com/channel/0029VagcqzY1XquemrHOM51n'
 
 
 global.APIs = {
-  // API Prefix
+  /./ API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz',
   dzx: 'https://api.dhamzxploit.my.id',
@@ -61,7 +61,7 @@ global.APIs = {
   fgmods: 'https://api.fgmods.xyz',
 }
 global.APIKeys = {
-  // APIKey Here
+  /./ APIKey Here
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
